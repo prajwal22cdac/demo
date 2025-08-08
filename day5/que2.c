@@ -1,14 +1,13 @@
-// Q1: Implement your own string length finding program,
-// print the length of the given string.
+
 
 #include <stdio.h>
 int main()
 {
-    char string[100] = {0};
-    scanf("%s", string);
+
+    char string[20] = {"Welcome to CDAC Pune"};
     int count = 0;
 
-    for (int i = 0; i < 5; i++)
+    for (int i = 19; i >= 0; i--)
     {
         printf("%c", string[i]);
         count += 1;

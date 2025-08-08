@@ -4,8 +4,8 @@
 #include <stdio.h>
 int main()
 {
-    char string[100] = {0};
-    scanf("%s", string);
+
+    char string[5] = {"hello"};
     int count = 0;
 
     for (int i = 0; i < 5; i++)
@@ -15,4 +15,6 @@ int main()
     }
     printf("\n");
     printf("The length of the string is: %d", count);
+
+
 }
