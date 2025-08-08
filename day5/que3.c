@@ -16,6 +16,6 @@ int main()
             result_index++;
         };
     }
-    string_result[20] = '\0';
+
     printf("%s", string_result);
 }
