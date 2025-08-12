@@ -10,6 +10,4 @@ int main()
 
     char ch = 'a';
     char *c = &ch;
-
-    
 }

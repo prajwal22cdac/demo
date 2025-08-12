@@ -1,1 +1,5 @@
-welcome
+Evaluating sqrt(pow(2, abs(-4.0)))
+Result: 4.00
+
+Converting and printing character 'h' using putchar(toupper(ch))
+H

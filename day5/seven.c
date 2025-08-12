@@ -16,6 +16,4 @@ int main()
     {
         printf("%d ", *(*parr + i));
     }
-
-
 }
